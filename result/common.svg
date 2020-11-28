@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="247px" preserveAspectRatio="none" style="width:417px;height:247px;" version="1.1" viewBox="0 0 417 247" width="417px" zoomAndPan="magnify"><defs><filter height="300%" id="fy3s3ktoxge0o" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#fy3s3ktoxge0o)" height="40" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="50" x="123" y="53.5659"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="26" x="135" y="78.4126">Idle</text><rect fill="#FEFECE" filter="url(#fy3s3ktoxge0o)" height="40" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="64" x="116" y="123.5659"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="54" x="121" y="148.4126">Ringing</text><rect fill="#FEFECE" filter="url(#fy3s3ktoxge0o)" height="40" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="59" x="290.5" y="53.5659"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="295.5" y="78.4126">Dialing</text><rect fill="#FEFECE" filter="url(#fy3s3ktoxge0o)" height="40" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="58" x="191" y="193.5659"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48" x="196" y="218.4126">Calling</text><ellipse cx="16" cy="73.5659" fill="#000000" filter="url(#fy3s3ktoxge0o)" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><ellipse cx="395" cy="73.5659" fill="none" filter="url(#fy3s3ktoxge0o)" rx="10" ry="10" style="stroke:#000000;stroke-width:1.0;"/><ellipse cx="395.5" cy="74.0659" fill="#000000" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><!--MD5=[583e8850357656d6f71ed436b986edf1]
+link *start to idle--><path d="M26.3578,73.5659 C45.754,73.5659 88.2308,73.5659 117.479,73.5659 " fill="none" id="*start-to-idle" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="122.778,73.5659,113.778,69.5659,117.778,73.5659,113.778,77.5659,122.778,73.5659" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="44.5" y="66.6328">power on</text><!--MD5=[52b4f22644ee286136e3cfa332831305]
+link idle to *end--><path d="M173.171,53.7119 C192.227,40.0089 219.701,22.9739 247,15.5659 C274.452,8.1169 283.81,7.2119 311,15.5659 C340.73,24.7009 369.175,48.5689 384.125,62.6769 " fill="none" id="idle-to-*end" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="387.974,66.3769,384.2572,57.2563,384.3692,62.9121,378.7134,63.024,387.974,66.3769" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="62" x="248" y="19.6328">power off</text><!--MD5=[8a20dd1c3a3c385048f18527e86826af]
+link idle to ringing--><path d="M148,93.8699 C148,101.3989 148,110.1189 148,118.0809 " fill="none" id="idle-to-ringing" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="148,123.4489,152,114.4489,148,118.4489,144,114.4489,148,123.4489" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[ff47c33ecfd11f9f5a4cd42db42dd720]
+link ringing to calling--><path d="M168.44,163.8701 C177.025,171.9783 187.072,181.4674 196.005,189.9044 " fill="none" id="ringing-to-calling" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="199.758,193.4488,195.9611,184.3613,196.1228,190.0158,190.4683,190.1775,199.758,193.4488" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[4345e30cd6d95158fb704001bc834c78]
+link idle to dialing--><path d="M173.01,73.5659 C202.549,73.5659 251.866,73.5659 285.142,73.5659 " fill="none" id="idle-to-dialing" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="290.339,73.5659,281.339,69.5659,285.339,73.5659,281.339,77.5659,290.339,73.5659" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="81" x="191.25" y="66.6328">outgoing call</text><!--MD5=[48f900e17bbf100121bd927c71c5637e]
+link dialing to idle--><path d="M290.207,85.0499 C279.788,88.5099 267.904,91.8439 256.75,93.5659 C234.788,96.9559 228.674,97.1949 206.75,93.5659 C197.243,91.9919 187.208,89.0769 178.174,85.9499 " fill="none" id="dialing-to-idle" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="173.268,84.1979,180.3986,90.9916,177.9768,85.8794,183.089,83.4576,173.268,84.1979" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="48" x="207.75" y="89.6328">nobody</text><!--MD5=[3c3ee4475337f7bae1c9943edd1a88ef]
+link dialing to calling--><path d="M308.477,93.8059 C297.244,112.1699 279.364,140.3946 262,163.5659 C255.418,172.35 247.722,181.587 240.73,189.6439 " fill="none" id="dialing-to-calling" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="237.362,193.4972,246.297,189.354,240.6528,189.7328,240.2739,184.0887,237.362,193.4972" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="83" x="289" y="148.1328">be answered</text><!--MD5=[d6206ddee6feb68600985be69344fbc2]
+link calling to idle--><path d="M212.74,193.3421 C205.541,174.9892 193.764,146.7729 181,123.5659 C176.246,114.9219 170.405,105.8559 164.966,97.9059 " fill="none" id="calling-to-idle" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="161.995,93.6129,163.8281,103.2897,164.8406,97.7242,170.4061,98.7367,161.995,93.6129" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="52" x="201" y="148.1328">hang up</text><!--MD5=[227a6c1620bc38e95f847e58cff351a4]
+@startuml
+hide empty description
+
+state "Idle" as idle
+state "Ringing" as ringing
+state "Dialing" as dialing
+state "Calling" as calling
+
+[*] -> idle : power on
+idle -> [*] : power off
+
+idle -> ringing : incoming call
+ringing -> calling : pick up
+
+idle -> dialing : outgoing call
+dialing -> calling : be answered
+dialing -> idle : nobody
+
+calling -down-> idle : hang up
+@enduml
+
+PlantUML version 1.2020.21beta7(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
