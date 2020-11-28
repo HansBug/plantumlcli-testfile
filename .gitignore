@@ -131,3 +131,4 @@ dmypy.json
 /uml/*.txt
 /uml/*.svg
 /uml/*.eps
+/dead_*
